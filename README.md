@@ -20,8 +20,6 @@
 
 ![preview](/.github/MuseuCurDesenWebComplet_.png)
 
-[👉🏻Clique aqui para acessar](https://ueveton.github.io/projMuseuCurDesenWebComplet/)
-
 > Contato
 
 - 💻uevetonsp89@gmail.com
